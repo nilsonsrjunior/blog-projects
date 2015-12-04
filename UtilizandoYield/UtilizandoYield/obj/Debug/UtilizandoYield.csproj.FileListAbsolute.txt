@@ -1,0 +1,6 @@
+c:\users\tiinter13\documents\visual studio 2013\Projects\UtilizandoYield\UtilizandoYield\bin\Debug\UtilizandoYield.exe.config
+c:\users\tiinter13\documents\visual studio 2013\Projects\UtilizandoYield\UtilizandoYield\bin\Debug\UtilizandoYield.exe
+c:\users\tiinter13\documents\visual studio 2013\Projects\UtilizandoYield\UtilizandoYield\bin\Debug\UtilizandoYield.pdb
+c:\users\tiinter13\documents\visual studio 2013\Projects\UtilizandoYield\UtilizandoYield\obj\Debug\UtilizandoYield.csprojResolveAssemblyReference.cache
+c:\users\tiinter13\documents\visual studio 2013\Projects\UtilizandoYield\UtilizandoYield\obj\Debug\UtilizandoYield.exe
+c:\users\tiinter13\documents\visual studio 2013\Projects\UtilizandoYield\UtilizandoYield\obj\Debug\UtilizandoYield.pdb

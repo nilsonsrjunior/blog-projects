@@ -1,0 +1,21 @@
+﻿@model IEnumerable<UsandoCacheDeObjetos.Models.Cliente>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        @foreach (var item in Model)
+        {
+            <p>
+                <strong>Cliente</strong>: @item.Nome
+                <strong>E-mail</strong>: @item.Email
+            </p>
+        }
+    </div>
+</div>
